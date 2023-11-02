@@ -1,0 +1,2 @@
+guincorn
+psycopg2-binary
